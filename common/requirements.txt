@@ -25,5 +25,8 @@ azure-storage-blob
 beautifulsoup4
 pydantic
 fastapi
-
+pandas 
+numpy
+selenium
+pathlib
 
